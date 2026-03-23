@@ -37,8 +37,6 @@
   4. 디버깅
   5. 복습
 
----
-
 > BaekjoonHub를 통해 자동 업로드됩니다.
 
 
@@ -46,9 +44,9 @@
 
 ## 🏅 Solved.ac Profile (선택)
 
-```md
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nobrake0706)](https://solved.ac/nobrake0706)
-```
+
 
 ---
 
