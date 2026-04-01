@@ -42,7 +42,7 @@
 
 ---
 
-## 🏅 Solved.ac Profile (선택)
+## 🏅 Solved.ac Profile 
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nobrake0706)](https://solved.ac/nobrake0706)
