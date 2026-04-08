@@ -25,7 +25,7 @@
 
   * BFS / DFS
   * 다익스트라 (Dijkstra)
-  * MST (Prim, Kruskal)
+  * MST (Kruskal)
   * 백트래킹
   * 구현 / 시뮬레이션
   * DP
