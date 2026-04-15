@@ -1,4 +1,4 @@
-# Algorithm Study (BaekjoonHub)
+# 💻 Algorithm Study (BaekjoonHub)
 
 > 백준 문제 풀이를 기록하는 알고리즘 학습 레포지토리입니다.
 > 꾸준한 문제 풀이를 통해 **문제 해결 능력과 구현력을 강화**하는 것을 목표로 합니다.
